@@ -1,3 +1,4 @@
+<img width="921" height="552" alt="WhatsApp Image 2026-06-20 at 12 00 18 AM" src="https://github.com/user-attachments/assets/f13bd08a-142b-4113-bd38-1f33c5e49f6f" />
 # 🔐 Investigación e Implementación de SQL Injection
 
 ## 📌 Descripción
@@ -8,7 +9,7 @@ La aplicación consiste en un sistema de inicio de sesión vulnerable que permit
 
 El proyecto fue desarrollado con fines educativos para comprender los riesgos de esta vulnerabilidad y las medidas necesarias para prevenirla.
 
----
+| <img loading="lazy" src="https://github.com/user-attachments/assets/f13bd08a-142b-4113-bd38-1f33c5e49f6f" alt="Página principal de VinylVibes" width="800"/> | ---
 
 # 📚 ¿Qué es SQL Injection?
 
